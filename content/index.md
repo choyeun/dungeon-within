@@ -5,6 +5,8 @@ description: 던전위딘(Dungeon Within) — GameCoaster의 로그라이크 던
 
 # 던전위딘 (Dungeon Within)
 
+![던전위딘 아이콘](리소스/던전위딘_아이콘.png)
+
 > *"Reclaim Your Throne as the True Dark Lord!"*
 
 **개발사**: GameCoaster  
